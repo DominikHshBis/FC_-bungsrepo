@@ -1,0 +1,4 @@
+services: 
+  download_urls: 
+    mein_github: 
+      url: "https://raw.githubusercontent.com/DominikHshBis/takarabako/main/AD_DC.db"
